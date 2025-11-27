@@ -9,7 +9,7 @@ Features:
 - Rewind track
 - Play / Pause
 - Mute / Unmute
--  Display - Does nothing for right now. I might change it later to include playback info from the plugged in device.
+-  Display - Flashes colors
 
 **PCB:**
 ![Schematic](https://raw.githubusercontent.com/JayGgit/JayGPad/refs/heads/main/img/schematic.png)
